@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566300788 source:e:\programming\c++\healthdeduction\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
