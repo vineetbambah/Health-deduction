@@ -23,7 +23,7 @@ int main()
             healthDeduct();
             timeAlive++;
         }
-        cout << "Player was alive for :- " << timeAlive << "steps." endl ;
+        cout << "Player was alive for :- " << timeAlive << "steps." << endl ;
     }else{
         exit(0);
     }
